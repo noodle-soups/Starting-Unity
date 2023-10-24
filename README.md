@@ -1,7 +1,7 @@
 # Starting-Unity
  Starting Unity course on Udemy
 
-![Preview Image](/Images/Image1.PNG)
+![Preview Image](/Images/Image1.png)
 
  * Installed Unity & Unity Hub.
  * Setup GitHub repo.
