@@ -1,7 +1,13 @@
 # Starting-Unity
  Starting Unity course on Udemy
 
-![Preview Image](/Images/Image1.PNG)
+<br>
+ 
+<p align="center">
+ <img src="/Images/Image1.png" height="400" />
+</p>
+
+<br>
 
  * Installed Unity & Unity Hub.
  * Setup GitHub repo.
